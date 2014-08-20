@@ -1,0 +1,3 @@
+<?php
+	echoo "Hellow World!";
+?>
